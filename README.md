@@ -60,8 +60,10 @@ Imagine uma loja de discos de vinil especializada que deseja modernizar sua gest
 ![modelo lógico](https://github.com/pblcnr/Trabalho_LojaMaisVinil/assets/141787223/678c9cd6-86ef-40d4-8c5f-8882b5146d98)
 
 # Dados
-
+  Todos os scripts de Dados estão no arquivo 'Loja MaisVinil.sql'
+  
 # CRUD
-  Todos os Scripts de CRUD estão na pasta
+  Todos os Scripts de CRUD estão na pasta 'CRUD'
 
 # Relatórios 
+  Todos os Scripts de Relatórios estão na pasta 'Relatórios'
